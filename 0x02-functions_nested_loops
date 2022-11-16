@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+/*
+ *main - the main function that returns 
+ the printed value
+ *main returns 0 always
+ */
+
+int main(void)
+{
+	putchar("_putchar");
+	putchar("\n");
+	return (0);
+}
